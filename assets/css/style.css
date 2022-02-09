@@ -1,13 +1,16 @@
+/* Universal Selector to make box size account for border width */
 * {
     box-sizing: border-box;
     padding: 0;
     margin: 0;
 }
 
+/* Changes background color of whole document */
 body {
     background-color: #d9dcd6;
 }
 
+/* Sets styling for the header */
 .header {
     padding: 20px;
     font-family: 'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;
@@ -15,15 +18,18 @@ body {
     color: #ffffff;
 }
 
+/* Styling for company name */
 .header h1 {
     display: inline-block;
     font-size: 48px;
 }
 
+/* Changes color of 'seo' within company name */
 .header h1 .seo {
     color: #d9dcd6;
 }
 
+/* Styling for navigation container */
 .header nav {
     padding-top: 15px;
     margin-right: 20px;
@@ -32,24 +38,29 @@ body {
     font-size: 20px;
 }
 
+/* Removes bullets from navigation elements */
 .header nav ul {
     list-style-type: none;
 }
 
+/* Makes navigation elements horizontal */
 .header nav ul li {
     display: inline-block;
     margin-left: 25px;
 }
 
+/* Removes styling for anchor tag and changes text color */
 a {
     color: #ffffff;
     text-decoration: none;
 }
 
+/* Sets default paragraph font size */
 p {
     font-size: 16px;
 }
 
+/* Creates a large image on page */
 .hero {
     height: 800px;
     width: 100%;
@@ -59,6 +70,7 @@ p {
     background-position: center;
 }
 
+/*  */
 .content {
     width: 75%;
     display: inline-block;
