@@ -10,7 +10,7 @@ body {
     background-color: #d9dcd6;
 }
 
-/* Sets styling for the header */
+/* Sets spacing,font, and colors for the header */
 .header {
     padding: 20px;
     font-family: 'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;
@@ -18,7 +18,7 @@ body {
     color: #ffffff;
 }
 
-/* Styling for company name */
+/* Sets font size and allows the nav element to float to the right side */
 .header h1 {
     display: inline-block;
     font-size: 48px;
@@ -29,7 +29,7 @@ body {
     color: #d9dcd6;
 }
 
-/* Styling for navigation container */
+/* Sets font, spacing, and placement of navigation element */
 .header nav {
     padding-top: 15px;
     margin-right: 20px;
@@ -70,13 +70,14 @@ p {
     background-position: center;
 }
 
-/*  */
+/* Sets main element size, spacing, and allows aside element to float to the right */
 .content {
     width: 75%;
     display: inline-block;
     margin-left: 20px;
 }
 
+/* Sets font, colors, and size of the section elements inside the content class */
 .content section {
     margin-bottom: 20px;
     padding: 50px;
@@ -86,25 +87,30 @@ p {
     color: #ffffff;
 }
 
+/* Sets height of images inside the content class */
 .content img {
     max-height: 200px;
 }
 
+/* Sets margin and font for h2 elements in the content class */
 .content h2 {
     margin-bottom: 20px;
     font-size: 36px;
 }
 
+/* Moves the images to the left of the text */
 .float-left {
     float: left;
     margin-right: 25px;
 }
 
+/* Moves the images to the right of the text */
 .float-right {
     float: right;
     margin-left: 25px;
 }
 
+/* Sets color, font, spacing, size, and moves the aside element on the right side of page */
 .benefits {
     margin-right: 20px;
     padding: 20px;
@@ -116,22 +122,26 @@ p {
     background-color: #2589bd;
 }
 
+/* Font color and spacing for section elements inside benefits class */
 .benefits section {
     margin-bottom: 32px;
     color: #ffffff;
 }
 
+/* Placement of h3 element inside benefits class */
 .benefits h3 {
     margin-bottom: 10px;
     text-align: center;
 }
 
+/* Image size, placement, and vertical orientation inside benefits class */
 .benefits img {
     display: block;
     margin: 10px auto;
     max-width: 150px;
 }
 
+/* Spacing, font, text centering, and sets footer to be below the floating elements */
 .footer {
     padding: 30px;
     clear: both;
@@ -139,6 +149,7 @@ p {
     text-align: center;
 }
 
+/* Font size for h2 element inside footer class */
 .footer h2 {
     font-size: 20px;
 }
