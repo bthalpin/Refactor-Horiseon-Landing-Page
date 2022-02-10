@@ -1,11 +1,14 @@
 # Refactoring of Horiseon Landing Page
-The purpse of this project was to refactor the Landing page for Horiseon.  This included adding semantic elements to the html file, adding alt tabs to ensure that Horiseon Marketing agency follows the accessibilty standards so that their site would be optimized for search engines...
+The Horiseon Marketing Agency needed me to refactor their web application to conform to accessibilty standards to ensure their site was optimized for search engines.
+
+I accomplished this by adding semantic elements, a descriptive title, and alt property for the images.  I also fixed a broken link, consolodated the css file, and added comments to both the html and css files to improve the long-tem sustainabilty of the codebase.
 
 
-## Website Links
-You can checkout the website [here](https://bthalpin.github.io/horiseon-marketing/).
 
-## Mock-Up
-The following image shows the web application's appearance:
+## Website Link
+You can checkout the Horiseon landing page [here](https://bthalpin.github.io/horiseon-marketing/).
+
+## Media
+The following image displays the appearance of the Horiseon landing page:
 ![alt text](./assets/images/horiseon-marketing.png)
 
