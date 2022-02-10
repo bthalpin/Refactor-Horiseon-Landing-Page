@@ -6,7 +6,7 @@ I accomplished this by adding semantic elements, a descriptive title, and alt pr
 
 
 ## Website Link
-You can checkout the Horiseon landing page [here](https://bthalpin.github.io/horiseon-marketing/).
+You can checkout the Horiseon landing page [here](https://bthalpin.github.io/Refactor-Horiseon-Landing-Page/).
 
 ## Media
 The following image displays the appearance of the Horiseon landing page:
