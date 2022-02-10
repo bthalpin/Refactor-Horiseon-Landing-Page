@@ -70,7 +70,7 @@ p {
     background-position: center;
 }
 
-/* Sets main element size, spacing, and allows aside element to float to the right */
+/* Sets content class size, spacing, and allows aside element to float to the right */
 .content {
     width: 75%;
     display: inline-block;
